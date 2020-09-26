@@ -50,6 +50,7 @@ img {
   color: #eff1f2;
   font-weight: 600;
   border: none;
+  cursor: pointer;
 }
 .craft {
   text-decoration: underline;
